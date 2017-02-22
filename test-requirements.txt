@@ -1,0 +1,9 @@
+codeclimate-test-reporter
+coveralls
+flake8
+mock
+nose
+nose-exclude>=0.5.0,<0.6.0
+twython
+sphinx
+sphinx_rtd_theme
